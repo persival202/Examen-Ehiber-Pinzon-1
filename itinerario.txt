@@ -1,2 +1,3 @@
 Itinerario de juan
 1. Primera clase, Gimnasia, de 6 a 7 AM
+2. Segunda clase, Matematicas, de 8 a 10 AM
